@@ -1,0 +1,67 @@
+
+
+
+h6{
+	color:yellow;
+	font-color:yellow;
+	
+	
+}
+
+
+body {
+  font-family:Ariel;
+  background-color:cyan;
+  background-image: url("../images/bg1.jpg");
+}
+
+img {
+	width:200;
+    border-radius: 8px;
+	border-radius: 50%;
+}
+
+img:hover {
+  transform: scaleX(-1);
+}
+
+h1 { color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 275px; 
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center;
+	}
+
+.newdivDavid{
+	font-size:70px;
+	
+}
+
+.myTitle{
+	font-weight: bold;
+	color:green;
+	}
+.bigOne{
+	font-size:30px;
+	
+}
+
+
+#myIdCssDavidColor
+{
+color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word;
+	
+}
+
+#DavidTitle{
+	
+	color: #F90B6D; 
+	font-family: 'Open Sans', 
+	sans-serif; font-size: 54px; 
+	font-weight: 300; 
+	line-height: 40px; 
+	margin: 0 0 16px;
+
+}
